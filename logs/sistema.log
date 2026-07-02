@@ -1,0 +1,13 @@
+2026-07-02 10:21:16,727 - INFO - Cliente registrado correctamente.
+2026-07-02 10:21:16,728 - INFO - Cliente registrado correctamente.
+2026-07-02 10:21:16,728 - ERROR - El nombre no puede estar vacío
+2026-07-02 10:21:16,729 - ERROR - Correo inválido
+2026-07-02 10:21:16,729 - INFO - Servicio Sala creado.
+2026-07-02 10:21:16,729 - INFO - Servicio Equipo creado.
+2026-07-02 10:21:16,729 - INFO - Servicio Asesoría creada.
+2026-07-02 10:21:16,730 - INFO - Reserva 1 realizada correctamente.
+2026-07-02 10:21:16,730 - INFO - Reserva 2 realizada correctamente.
+2026-07-02 10:21:16,730 - ERROR - La duración debe ser mayor que cero
+2026-07-02 10:21:16,730 - ERROR - La tarifa debe ser mayor a cero
+2026-07-02 10:21:16,730 - ERROR - Las horas deben ser numéricas.
+2026-07-02 10:21:16,731 - INFO - Simulación finalizada.
